@@ -25,9 +25,9 @@ impl<T> Stack<T> {
     }
 
     /// Проверяет, пуст ли стек
-    fn is_empty(&self) -> bool {
-        self.items.is_empty()
-    }
+    // fn is_empty(&self) -> bool {
+    //     self.items.is_empty()
+    // }
 
     /// Возвращает количество элементов
     fn size(&self) -> usize {

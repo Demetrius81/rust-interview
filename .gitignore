@@ -24,3 +24,9 @@ target
 # Added by cargo
 
 /target
+
+# test output file
+example.txt
+
+# SQLite db files
+*.db
