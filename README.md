@@ -8163,6 +8163,6 @@
 
 ---
 
-Использованные ресурсы:
+##### Использованные ресурсы:
 
- - [https://uproger.com/100-samyh-populyarnyh-voprosov-na-sobesedovanii-dlya-rust-razrabotchikov/](https://uproger.com/100-samyh-populyarnyh-voprosov-na-sobesedovanii-dlya-rust-razrabotchikov/)
+[https://uproger.com/100-samyh-populyarnyh-voprosov-na-sobesedovanii-dlya-rust-razrabotchikov/](https://uproger.com/100-samyh-populyarnyh-voprosov-na-sobesedovanii-dlya-rust-razrabotchikov/)
